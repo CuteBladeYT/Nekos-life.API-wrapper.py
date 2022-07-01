@@ -2,13 +2,13 @@
 ## AKA Better Nekos.life API wrapper for Python
 
 ### Table of contents
-| Section | Description |
-| --- | --- |
-| [Original Project](#original-project) | Project's license |
-| [License](#license) | Project's license |
-| [Requirements](#requirements) | List of anything you need to run the wrapper |
-| [Usage](#usage) | How to use the wrapper |
-| [Installation](#installation) |  How to install the wrapper|
+| | Section | Description |
+| --- | --- | --- |
+| 1 | [Original Project](#original-project) | Project's license |
+| 2 | [License](#license) | Project's license |
+| 3 | [Requirements](#requirements) | List of anything you need to run the wrapper |
+| 4 | [Usage](#usage) | How to use the wrapper |
+| 5 | [Installation](#installation) |  How to install the wrapper|
 
 <br>
 
