@@ -4,10 +4,18 @@
 ### Table of contents
 | Section | Description |
 | --- | --- |
+| [Original Project](#original-project) | Project's license |
 | [License](#license) | Project's license |
 | [Requirements](#requirements) | List of anything you need to run the wrapper |
 | [Usage](#usage) | How to use the wrapper |
 | [Installation](#installation) |  How to install the wrapper|
+
+<br>
+
+### Original project
+The original API wrapper is [Nekos-life](https://github.com/Nekos-life/nekos.py)
+
+<br>
 
 ### License
 This project is licensed under [GPL-3.0](https://github.com/CuteBladeYT/Nekos-life.API-wrapper.py/blob/main/LICENSE), as the original API wrapper is licensed under this license.
