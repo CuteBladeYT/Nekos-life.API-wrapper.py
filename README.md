@@ -2,6 +2,7 @@
 ## AKA Better Nekos.life API wrapper for Python
 
 ### Table of contents
+
 | | Section | Description |
 | --- | --- | --- |
 | 1 | [Original Project](#original-project) | Project's license |
@@ -13,11 +14,13 @@
 <br>
 
 ### Original project
+
 The original API wrapper is [Nekos-life](https://github.com/Nekos-life/nekos.py)
 
 <br>
 
 ### License
+
 This project is licensed under [GPL-3.0](https://github.com/CuteBladeYT/Nekos-life.API-wrapper.py/blob/main/LICENSE), as the original API wrapper is licensed under this license.
 
 <br>
@@ -35,6 +38,7 @@ This project is licensed under [GPL-3.0](https://github.com/CuteBladeYT/Nekos-li
 <br>
 
 ### Usage
+
 You have to include this module in your Python file first. Refer to [installation guide](#installation).<br>
 After you do so, you can use `get_neko()` function. It requires two arguments, neko type and optional query text.<br>
 <br>
